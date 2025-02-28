@@ -6,3 +6,4 @@ Bảng cửu chương
 3 x 1 = 3
 3 x 2 = 6
 >>>>>>> bangcuuchuong_3
+Bảng cửu chương 2: ...
