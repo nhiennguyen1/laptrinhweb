@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Thay đổi từ master
+=======
+Thay đổi từ test_conflict
+>>>>>>> test_conflict
